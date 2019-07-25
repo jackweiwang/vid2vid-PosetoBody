@@ -1,7 +1,7 @@
 # vid2vid-PosetoBody
 nvidia vid2vid pose to body analyze
 
-
+source code https://github.com/NVIDIA/vid2vid
 
 
 FlowNet2 checkpoint.pth.tar  
